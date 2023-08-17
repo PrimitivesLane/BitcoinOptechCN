@@ -2,7 +2,7 @@
 
 ***日期***：2023.08.17
 
-***目标**：*确认工作流程，词汇表初始化
+***目标***：确认工作流程，词汇表初始化
 
 ***待讨论事项***：是否由 Ajian 此前给出的[词汇表](https://github.com/PrimitivesLane/Publications/blob/main/glossary-mempool.md)初始化本表格。
 
