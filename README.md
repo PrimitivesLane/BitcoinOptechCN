@@ -35,4 +35,4 @@
 
 ### 3.2 工作方法
 
-翻译小组成员可随时向术语表中增加或修正术语条目，在每月的第 3 个周四，小组以线上会议的形式讨论尚未解决的条目。每月的修订结果可在[此](https://github.com/PrimitivesLane/BitcoinOptechCN/tree/main/Meeting_Notes)https://github.com/PrimitivesLane/BitcoinOptechCN/tree/main/Meeting_Note)查询。
+翻译小组成员可随时向术语表中增加或修正术语条目，在每月的第 3 个周四，小组以线上会议的形式讨论尚未解决的条目。每月的修订结果可在[此](https://github.com/PrimitivesLane/BitcoinOptechCN/tree/main/Meeting_Notes)查询。
